@@ -32,3 +32,10 @@ Thumbs.db
 # Local databases
 *.db
 *.sqlite3
+
+#image and excel assets
+icon/
+*.ico
+*.psd
+*.xlsx
+*.xls   
